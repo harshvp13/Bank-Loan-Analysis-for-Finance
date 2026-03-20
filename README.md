@@ -40,6 +40,9 @@ Loan performance directly impacts profitability and risk in financial institutio
 The analysis was conducted on 38,576 loan applications, with a total funded amount of $435.76M and total amount received of $473.07M, indicating overall positive returns on issued loans. The average interest rate is 12.05%, and the average debt-to-income (DTI) ratio is 13.33%.
 The portfolio shows that 86.17% of loans are good (Fully Paid/Current), while 13.82% are bad loans (Charged Off), highlighting a manageable but important level of credit risk.
 
+
+[Click here to explore the dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAyMTFkMjMtNDM1OS00N2FlLWI0MjctMTVlMmExYjExN2E1IiwidCI6IjE3MTk4ODM2LTIyZTktNGM2Ni1iMjhlLTc3ZWJkNWQxYTc5YSIsImMiOjJ9)
+
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/510d4fc7-83c6-41d0-8fc6-40fe5aa7e2bb" /> 
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/52084a26-a128-4bde-89f0-79d373808d0b" />
