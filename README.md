@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis-for-Finance
+# Credit Risk Analysis for Finance
 
 **Executive Summary**
 
